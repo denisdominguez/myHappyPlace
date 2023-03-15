@@ -5,8 +5,13 @@
     <title>My Happy Place</title>
 </head>
 <body>
-
     <h1>Welcome to a place for better children to this world</h1>
-    <img src="images/logo.jpg">
+    <h2>Hola {{usuario}}</h2>
+
+<ul>
+    {{#users}}
+      <li>{{name}}</li>
+    {{/users}}
+</ul>
 </body>
 </html>
