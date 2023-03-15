@@ -12,7 +12,8 @@
 
 ## Start
 > .\mvnw clean spring-boot:run
-> then open https://localhost:8787/
+
+> then open in your fav browser https://localhost:8787/
 
 ## Help
 > Send an email to it@denis-dominguez.de
